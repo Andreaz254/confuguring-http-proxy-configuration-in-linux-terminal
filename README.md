@@ -21,7 +21,7 @@ This repository provides a simple script to set up and manage a proxy connection
 
    ```bash
    git clone https://github.com/Andreaz254/terminal-proxy_configuration-file
-
+2. **Change directory to proxy-config**
 
    cd proxy-config
 
