@@ -23,15 +23,13 @@ This repository provides a simple script to set up and manage a proxy connection
    git clone https://github.com/Andreaz254/terminal-proxy_configuration-file
 
 
-      cd proxy-config
+   cd proxy-config
 
-3. EDIT your .bashrc file:
 
-      nano ~/.bashrc
 
 4. ADD the script:
-  
-     cat proxy_config >> ~/.bashrc
+     ```bash
+   cat proxy_config >> ~/.bashrc
 
 5. Save and Exit the Editor
 
