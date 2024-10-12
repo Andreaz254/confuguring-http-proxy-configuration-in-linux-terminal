@@ -25,16 +25,17 @@ This repository provides a simple script to set up and manage a proxy connection
 
       cd proxy-config
 
-3. EDIT your .bashrc file
+3. EDIT your .bashrc file:
+
       nano ~/.bashrc
 
-4. ADD the script
+4. ADD the script:
   
      cat proxy_config >> ~/.bashrc
 
-5. Save and Exit the Editor:
+5. Save and Exit the Editor
 
-To save your changes and exit:
+To save your changes and exit
 
 Press CTRL + X.
 Press Y to confirm.
