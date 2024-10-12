@@ -20,28 +20,31 @@ This repository provides a simple script to set up and manage a proxy connection
 1. **Clone this repository** to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/proxy-config.git
+   git clone https://github.com/Andreaz254/terminal-proxy_configuration-file
 
 
-2. cd proxy-config
+      cd proxy-config
 
-3. EDIT your .bashrc file - nano ~/.bashrc
+3. EDIT your .bashrc file
+      nano ~/.bashrc
 
-4. ADD the script - cat proxy_config >> ~/.bashrc
+4. ADD the script
+  
+     cat proxy_config >> ~/.bashrc
 
 5. Save and Exit the Editor:
 
 To save your changes and exit:
 
-    Press CTRL + X.
-    Press Y to confirm.
-    Hit Enter to save.
+Press CTRL + X.
+Press Y to confirm.
+Hit Enter to save.
 
 🛠️ USAGE
 
-    Open a new terminal session.
-    You will be prompted to configure your proxy settings. Follow the interactive instructions to either set or skip the proxy.
-    The script will display the current proxy configuration at the top of your terminal.
+Open a new terminal session.
+You will be prompted to configure your proxy settings. Follow the interactive instructions to either set or skip the proxy.
+The script will display the current proxy configuration at the top of your terminal.
 
 ✨ Customization
 
