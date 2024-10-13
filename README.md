@@ -43,6 +43,7 @@ Hit Enter to save.
 
 Open a new terminal session.
 You will be prompted to configure your proxy settings. Follow the interactive instructions to either set or skip the proxy.
+Enter the address only e.g 169.254.1.1:10809
 The script will display the current proxy configuration at the top of your terminal.
 
 ✨ Customization
