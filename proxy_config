@@ -11,7 +11,7 @@ function set_proxy() {
     if [ "$proxy_response" = "yes" ]; then
         echo -e "\033[1;34mPlease enter your proxy (format: http://proxy:port):\033[0m"
         read proxy_address
-        export http_proxy="$proxy_address"
+        export http_proxy=http://"$proxy_address"
         echo -e "\033[1;32mProxy set to:\033[0m $http_proxy"
     else
         unset http_proxy
